@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NiamhDriscoll
+- 👋 Hi, I’m @NiamhDriscoll, or Niamh M. Driscoll
 - 👀 I’m interested in coding and build computers
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning about making websites going live
 - 💞️ I’m looking to collaborate on coding
 - 😄 Pronouns: She/Her/Her's
 - ⚡ Fun fact: I love Star Wars and Fortnite
