@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NiamhDriscoll, or Niamh M. Driscoll
-- 👀 I’m interested in coding and build computers
+- 👀 I’m interested in coding and building computers
 - 🌱 I’m currently learning about making websites going live
 - 💞️ I’m looking to collaborate on coding
 - 😄 Pronouns: She/Her/Her's
