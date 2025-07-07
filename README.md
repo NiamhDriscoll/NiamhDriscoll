@@ -6,10 +6,16 @@
 - ⚡ Fun fact: I love Star Wars, Fortnite, Battlefront 2, and Forza Motersport.
 
 
-Hello there! These are the things I just coded, what I want to code sooner, and what I want to do in a long time.
+Hello there! These are the things I just coded, what I want to code sooner, and what I want sometime when I am finished with the rest of my projects 
 
 Recently coded: 
 - The Python script for giving you the a reminder to take your medication in my new program [MedKit](https://github.com/NiamhDriscoll/MedKit)
+
+What I want to code soon:
+- A GUI for it so users do not have to stick to the command line
+
+What I want 
+
 
 
 <!---
