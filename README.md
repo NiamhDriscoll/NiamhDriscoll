@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @NiamhDriscoll, or Niamh M. Driscoll
 - 👀 I’m interested in coding and building computers
 - 🌱 I’m currently learning C++
@@ -13,7 +14,7 @@ Recently coded:
 
 What I want to code soon:
 - A GUI for it so users do not have to stick to the command line
-
+- A way to tell the C++ what to do from the Python app (Started this, but not finished)
 
 Have a great day!
 
