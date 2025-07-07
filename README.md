@@ -9,7 +9,7 @@
 Hello there! These are the things I just coded, what I want to code sooner, and what I want to do in a long time.
 
 Recently coded: 
- The Python script for giving you the a reminder to take your medication in my new program [MedKit](https://github.com/NiamhDriscoll/MedKit
+ The Python script for giving you the a reminder to take your medication in my new program [MedKit](https://github.com/NiamhDriscoll/MedKit)
 
 
 <!---
