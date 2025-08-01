@@ -14,7 +14,8 @@ Recently coded:
 
 What I want to code soon:
 - A GUI for it so users do not have to stick to the command line
-- A way to tell the C++ what to do from the Python app (Started this, but not finished)
+
+Soon I will release a new project, just need to fine tune it.
 
 Have a great day!
 
