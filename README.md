@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @NiamhDriscoll, or Niamh M. Driscoll
 - 👀 I’m interested in coding and building computers
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on coding
 - 😄 Pronouns: She/Her/Her's
 - ⚡ Fun fact: I love Star Wars, Fortnite, Battlefront 2, and Forza Motersport.
