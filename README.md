@@ -7,15 +7,9 @@
 - ⚡ Fun fact: I love Star Wars, Fortnite, Battlefront 2, and Forza Motersport.
 
 
-Hello there! These are the things I just coded and what I want to code soon.
+Hello there! These are the things I am working on:
 
-Recently coded: 
-- The Python script for giving you the a reminder to take your medication in my new program [MedKit](https://github.com/NiamhDriscoll/MedKit)
-
-What I want to code soon:
-- A GUI for it so users do not have to stick to the command line
-
-Soon I will release a new project, just need to fine tune it.
+A tool for having variables across languages and projects (Serin), and an app for using it (Serin-App). Also, I am working on the online Harvord course CS50, so I will have many commits to me50 or something simalar. 
 
 Have a great day!
 
