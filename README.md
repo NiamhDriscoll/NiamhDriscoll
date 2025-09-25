@@ -10,6 +10,7 @@
 Hello there! These are the things I am working on:
 
 CS50! I have a lot to do, so it might look like I am not coding, but I sure am!
+
 Fun fact: Did you know you can print emojis with echo? Am I the only one who did not know that??
 Have a great day!
 
