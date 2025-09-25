@@ -9,8 +9,8 @@
 
 Hello there! These are the things I am working on:
 
-A tool for having variables across languages and projects (Serin), and an app for using it (Serin-App). Also, I am working on the online Harvord course CS50, so I will have many commits to me50 or something simalar. 
-
+CS50! I have a lot to do, so it might look like I am not coding, but I sure am!
+Fun fact: Did you know you can print emojis with echo? Am I the only one who did not know that??
 Have a great day!
 
 
