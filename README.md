@@ -12,7 +12,7 @@
 - 🌱 Currently learning **CS50** & **C#**
 - 💞️ Open to **collaborate** on coding projects
 - 😄 **Pronouns:** She/Her/Her's
-- ⚡ **Fun fact:** I love Star Wars, Fortnite, Battlefront 2, and Forza Motorsport
+- ⚡ **Fun fact:** I love Star Wars, Doom, Battlefront 2, and Forza Motorsport
 
 ---
 
