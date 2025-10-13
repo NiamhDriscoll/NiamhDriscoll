@@ -2,7 +2,7 @@
 **Pronouns:** She/Her/Her's
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there!;+Welcome+to+my+profile!;Independent+Developer+%F0%9F%92%BB;CS50+Student+%F0%9F%93%9A;Coding+Enthusiast+%F0%9F%92%BB;Star+Wars+Fan+%F0%9F%A4%97" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there!;+Welcome+to+my+profile!;Independent+Developer+%F0%9F%92%BB;CS50+Student+%F0%9F%93%9A;Coding+Enthusiast+%F0%9F%92%BB;Doom+Fan+%F0%9F%A4%97" alt="Typing SVG">
 </p>
 
 ---
