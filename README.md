@@ -9,10 +9,10 @@
 
 ## 💫 About Me
 - 👀 Interested in **coding** and **building computers**
-- 🌱 Currently learning **CS50** & **C#**
+- 🌱 Currently learning **CS50 Python**
 - 💞️ Open to **collaborate** on coding projects
 - 😄 **Pronouns:** She/Her/Her's
-- ⚡ **Fun fact:** I love Star Wars, Doom, Battlefront 2, and Forza Motorsport
+- ⚡ **Fun fact:** I love Doom, RDR2, Warhammer 40k, and cars (AKA I am a nerd)
 
 ---
 
@@ -28,8 +28,8 @@
 ---
 
 ## 🚧 What I'm Working On
-- 📚 **CS50!**  
-  I have a lot to do, so it might look like I’m not coding, but I sure am!
+- 📚 **CS50 Python!**
+  After finishing CS50 and surviving regular school, I am very tired. Once I am ready, I will have a steadier pace. Right now, I am just being lazy and doing some work along the way.
 - 🏗️ Building cool projects and learning new tech!
 
 ---
@@ -43,10 +43,7 @@
 
 ---
 
-## ✨ Extra Fun
-> Did you know you can print emojis with `echo`?  
-> Am I the only one who did not know that??  
-> Have a great day! 😄
+
 
 ---
 
