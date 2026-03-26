@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Niamh M. Driscoll (@NiamhDriscoll)
+#  Hi, I’m Niamh M. Driscoll (@NiamhDriscoll)
 **Pronouns:** She/Her/Her's
 
 <p align="center">
@@ -28,9 +28,7 @@
 ---
 
 ## 🚧 What I'm Working On
-- 📚 **CS50 Python!**
-  After finishing CS50 and surviving regular school, I am very tired. Once I am ready, I will have a steadier pace. Right now, I am just being lazy and doing some work along the way.
-- 🏗️ Building cool projects and learning new tech!
+project for school, lowkey best coder in school :)
 
 ---
 
