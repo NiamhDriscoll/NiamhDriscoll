@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there!;+Welcome+to+my+profile!;Independent+Developer+%F0%9F%92%BB;CS50+Student+%F0%9F%93%9A;Coding+Enthusiast+%F0%9F%92%BB;Doom+Fan+%F0%9F%A4%97" alt="Typing SVG">
 </p>
 
----
-
 ## 💫 About Me
 - 👀 Interested in **coding** and **building computers**
 - 🌱 Currently learning **CS50 Python**
@@ -14,7 +12,7 @@
 - 😄 **Pronouns:** She/Her/Her's
 - ⚡ **Fun fact:** I love Doom, RDR2, Warhammer 40k, and cars (AKA I am a nerd)
 
----
+
 
 ## 🛠️ Skills & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -25,12 +23,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
----
 
 ## 🚧 What I'm Working On
 project for school, lowkey best coder in school :)
 
----
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -39,11 +35,11 @@ project for school, lowkey best coder in school :)
   <img src="https://github-readme-stats.vercel.app/api?username=NiamhDriscoll&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
 
 
 
----
+
+
 
 
 
