@@ -24,8 +24,7 @@
 
 
 
-## 🚧 What I'm Working On
-project for school, lowkey best coder in school :)
+
 
 
 ## 📈 GitHub Stats
