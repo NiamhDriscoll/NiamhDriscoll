@@ -10,7 +10,7 @@
 - 🌱 Currently learning **CS50 Python**
 - 💞️ Open to **collaborate** on coding projects
 - 😄 **Pronouns:** She/Her/Her's
-- ⚡ **Fun fact:** I love Doom, RDR2, Warhammer 40k, and cars (AKA I am a nerd)
+- ⚡ **Fun fact:** I love Doom, RDR2, Resident Evil, Warhammer 40k, and cars (AKA I am a nerd)
 
 
 
