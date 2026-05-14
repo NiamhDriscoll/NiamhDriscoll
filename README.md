@@ -33,7 +33,7 @@
   <br>
   <img src="https://github-stats-extended.vercel.app/api?username=NiamhDriscoll&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-My stats are c+ but in my heart i am C++
+My stats are c+ but in my heart i am C++ (std::cout club)
 
 
 
